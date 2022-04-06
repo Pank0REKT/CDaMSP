@@ -1,0 +1,7 @@
+C:\University\CDaMSP\Program\Program\bin\Debug\Program.exe.config
+C:\University\CDaMSP\Program\Program\bin\Debug\Program.exe
+C:\University\CDaMSP\Program\Program\bin\Debug\Program.pdb
+C:\University\CDaMSP\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\University\CDaMSP\Program\Program\obj\Debug\Program.exe
+C:\University\CDaMSP\Program\Program\obj\Debug\Program.pdb
+C:\University\CDaMSP\Program\Program\bin\Debug\NUnit.Framework.dll
